@@ -276,3 +276,7 @@ Energy Consumption Forecasting Project
 
 **Happy Forecasting! ⚡**
 
+=======
+# Energy-Electricity-consumption-forecast
+ML Mini Project
+
