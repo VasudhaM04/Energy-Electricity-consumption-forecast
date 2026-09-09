@@ -98,7 +98,7 @@ This creates additional features:
 - Lag features (1h, 24h, 168h)
 - Rolling statistics (mean, std, min, max)
 - Difference features
-- Interaction features
+- Interaction features+
 
 ### Step 5: Train Models
 
